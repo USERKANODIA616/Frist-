@@ -1,1 +1,2 @@
-# Frist-
+# Frist
+author:shubham kanodia
